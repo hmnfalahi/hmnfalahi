@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hmn</h1>
 <h3 align="center">A passionate python lover</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmnfalahi&label=Profile%20views&color=0e75b6&style=flat" alt="hmnfalahi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmnfalahi&label=Profile%20views&color=00B4D8&style=flat" alt="hmnfalahi" /> </p>
 
 - 🌱 I’m currently learning **gRPC,**
 
