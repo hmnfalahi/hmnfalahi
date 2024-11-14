@@ -1,12 +1,26 @@
-<h1 align="center">Hi 👋, I'm Hmn</h1>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hmnfalahi&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/hmnfalahi/github-widgetbox)
+
+<h1 align="center">Hi 👋, I'm Himen Falahi</h1>
 <h3 align="center">A passionate python lover</h3>
 
 - 🌱 I’m currently learning **gRPC & FastAPI**
 
 - 📫 reach me at **hmnfalahi@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+# Tools & Skills 💻
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask,postgres,rabbitmq,redis,django,bash,discord,docker,kubernetes,git,github,githubactions,gitlab,linux,md,mysql,nginx,postman,pycharm,sqlite,ubuntu,vim,vscode,regex,windows,&theme=dark)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmnfalahi&show_icons=true&locale=en&layout=compact" alt="hmnfalahi" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmnfalahi&show_icons=true&locale=en" alt="hmnfalahi" /></p>
+And more...
+
+
+# GitHub Stats 🏆📈📊🎳
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hmnfalahi&count_private=true&theme=algolia&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,SECRET,LONGEST_STREAK,CURRENT_STREAK)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+       
+![Github stats](https://github-readme-stats.vercel.app/api?username=hmnfalahi&theme=algolia&show_icons=true&count_private=true&hide=issues&hide_border=true)
+![Github stats](https://github-contributor-stats.vercel.app/api?username=hmnfalahi&theme=algolia&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmnfalahi&theme=algolia&layout=compact&hide_border=true)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hmnfalahi&theme=github-compact)](https://github.com/hmnfalahi/github-readme-activity-graph)
