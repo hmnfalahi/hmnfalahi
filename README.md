@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Himen Falahi</h1>
 <h3 align="center">A passionate python lover</h3>
 
-- 🌱 I’m currently learning **gRPC & FastAPI**
 # Contact 📞
 [![Linkedin: HmnFalahi](https://img.shields.io/badge/-hmnfalahi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hmnfalahi/)](https://www.linkedin.com/in/hmnfalahi/)
 [![Email: hmnfalahi@gmail.com](https://img.shields.io/badge/Email-hmnfalahi%40gmail.com-red.svg)](mailto:hmnfalahi@gmail.com)
