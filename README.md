@@ -1,4 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hmnfalahi&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/hmnfalahi/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hmnfalahi&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/hmnfalahi)
 
 <h1 align="center">Hi 👋, I'm Himen Falahi</h1>
 <h3 align="center">A passionate python lover</h3>
