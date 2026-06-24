@@ -1,28 +1,54 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hmnfalahi&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/hmnfalahi)
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Himen Falahi | Python Back-End & AI Agent Engineer
 
-<h1 align="center">Hi 👋, I'm Himen Falahi</h1>
-<h3 align="center">A passionate python lover</h3>
+<div align="center">
 
-# Contact 📞
-[![Linkedin: HmnFalahi](https://img.shields.io/badge/-hmnfalahi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hmnfalahi/)](https://www.linkedin.com/in/hmnfalahi/)
-[![Email: hmnfalahi@gmail.com](https://img.shields.io/badge/Email-hmnfalahi%40gmail.com-red.svg)](mailto:hmnfalahi@gmail.com)
-[![Telegram: hmnfalahi](https://img.shields.io/badge/-hmnfalahi-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/hmnfalahi/)](https://www.t.me/hmnfalahi/)
+**Back-End Engineering | AI Agents | Async Systems**
 
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=600&lines=Python+Back-End+Developer+%7C+AI+Agent+Engineer;7%2B+Years+Python+%7C+5%2B+Years+in+Production;Building+Multi-Provider+AI+Agents+%26+Scalable+APIs;RAG+%7C+Tool+Calling+%7C+Real-Time+Streaming" height="40"/>
 
-# Tools & Skills 💻
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask,postgres,rabbitmq,redis,django,bash,discord,docker,kubernetes,git,github,githubactions,gitlab,linux,md,mysql,nginx,postman,pycharm,sqlite,ubuntu,vim,vscode,regex,windows,&theme=dark)](https://skillicons.dev)
+[![Email](https://img.shields.io/badge/Email-hmnfalahi@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hmnfalahi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-hmnfalahi-181717?style=flat-square&logo=github)](https://github.com/hmnfalahi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Himen%20Falahi-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-handle/)
+[![Location](https://img.shields.io/badge/Location-Tehran,%20Iran-0D9488?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
-And more...
+</div>
 
+---
 
-# GitHub Stats 🏆📈📊🎳
+## 🎯 Professional Summary
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hmnfalahi&count_private=true&theme=algolia&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,SECRET,LONGEST_STREAK,CURRENT_STREAK)](https://github.com/ryo-ma/github-profile-trophy)
+Python Back-End Developer with **7+ years of Python** and **5+ years in production** at Xeba Technologies. Expertise in RESTful APIs, microservices, and async systems (`aiohttp`, WebSockets), with a current focus on **AI agent engineering** — designing multi-provider agents (OpenAI, Anthropic, Gemini) with RAG, tool calling, and real-time conversation. Strong emphasis on TDD, clean architecture, and shipping software that scales.
 
+**Current Focus:** AI agent pipelines | RAG & retrieval | Real-time streaming systems | Async back-ends
 
-       
-![Github stats](https://github-readme-stats.vercel.app/api?username=hmnfalahi&theme=algolia&show_icons=true&count_private=true&hide=issues&hide_border=true)
-![Github stats](https://github-contributor-stats.vercel.app/api?username=hmnfalahi&theme=algolia&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmnfalahi&theme=algolia&layout=compact&hide_border=true)
+---
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hmnfalahi&theme=github-compact)](https://github.com/hmnfalahi/github-readme-activity-graph)
+## 🛠️ Technical Stack
+
+**Back-End & APIs**
+
+`Python` `Django` `Django REST Framework` `FastAPI` `Flask` `aiohttp` `Restfulpy`
+
+**AI / LLM**
+
+`OpenAI API` `Anthropic (Claude)` `Gemini` `LangChain` `RAG` `Tool / Function Calling`
+
+**Data & Infrastructure**
+
+`PostgreSQL` `SQLAlchemy` `Redis` `RabbitMQ` `Celery` `WebSockets`
+
+**Practices & Tooling**
+
+`TDD` `Microservices` `REST` `Git` `Linux` `Golang`
+
+---
+
+## 🚀 What I Build
+
+- **Production APIs** for high-traffic workloads with Django REST Framework, FastAPI, and Flask
+- **AI agent pipelines** — unified abstraction over OpenAI / Anthropic / Gemini, RAG retrieval (vector stores + re-ranking), structured tool/function calling
+- **Real-time conversation systems** over `aiohttp` WebSockets with streaming responses, session state, and auto-reconnection
+- **Async task pipelines** with Celery + RabbitMQ to decouple background work from the request cycle
+- **Performance** — PostgreSQL schema/query optimization via SQLAlchemy and Redis caching to cut latency
+
+---
