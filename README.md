@@ -17,7 +17,7 @@
 
 ## 🎯 Professional Summary
 
-Python Back-End Developer with **7+ years of Python** and **5+ years in production** at Xeba Technologies. Expertise in RESTful APIs, microservices, and async systems (`aiohttp`, WebSockets), with a current focus on **AI agent engineering** — designing multi-provider agents (OpenAI, Anthropic, Gemini) with RAG, tool calling, and real-time conversation. Strong emphasis on TDD, clean architecture, and shipping software that scales.
+Python Back-End Developer, Expertise in RESTful APIs, microservices, and async systems (`aiohttp`, WebSockets), with a current focus on **AI agent engineering** — designing multi-provider agents (OpenAI, Anthropic, Gemini) with RAG, tool calling, and real-time conversation. Strong emphasis on TDD, clean architecture, and shipping software that scales.
 
 **Current Focus:** AI agent pipelines | RAG & retrieval | Real-time streaming systems | Async back-ends
 
