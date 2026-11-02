@@ -44,3 +44,17 @@ Python back-end developer with expertise in RESTful APIs, microservices, and asy
 - **Real-time conversation systems** over `aiohttp` WebSockets with streaming responses, session state, and auto-reconnection
 - **Async task pipelines** with Celery + RabbitMQ to decouple background work from the request cycle
 - **Performance** — PostgreSQL schema/query optimization via SQLAlchemy and Redis caching to cut latency
+
+---
+
+## Featured Project
+
+**[obot](https://github.com/hmnfalahi/obot)**: a Telegram AI bot factory. Users create their own AI bots that answer in DMs and groups, run scheduled tasks, and work with other bots.
+`FastAPI` `aiogram` `Pydantic AI` `SQLAlchemy (async)` `Redis` `Langfuse`
+
+---
+
+## Open Source
+
+- **[celery/celery#10369](https://github.com/celery/celery/pull/10369)**: Mark rejected tasks as failed when not requeued *(merged)*
+- **[celery/celery#9362](https://github.com/celery/celery/pull/9362)**: Type annotations for `celery/utils/timer2.py` *(merged)*
